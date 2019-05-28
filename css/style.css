@@ -1,0 +1,65 @@
+.border{
+  
+  border:solid 1px;
+ 
+  
+  
+}
+
+.delete-like{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  
+}
+
+.increment-decrement{
+  
+  display:flex;
+  align-items:center;
+  justify-content:flex-start;
+  
+}
+
+.description{
+  
+  display:flex;
+  align-items:center;
+  justify-content:center;
+
+}
+
+
+
+  .image-article{
+  width:100px;
+  height:100px
+  
+}
+body{
+  
+  background-color:#ADFF2F;
+  
+  
+}
+
+.cart{
+  
+  background-color:white;
+  border-radius:10px; 
+}
+
+.article{
+  
+  border-top:solid 1px;
+  border-bottom:solid 1px;
+  border-radius:10px;
+  border-color:grey;
+    
+}
+
+.btn-like:hover , .btn-delete:hover{
+  
+  color:red;
+  
+}
